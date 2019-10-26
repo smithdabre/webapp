@@ -1,2 +1,2 @@
 # webapp
-My first practice project
+My first practice web project
